@@ -1,6 +1,7 @@
 Overview
 A Node, Express, Handlebars, and MySQL burger app that lets users input the names of burgers they'd like to eat... and then devour them!
 Please check out the launched app on Heroku
+https://dashboard.heroku.com/apps/burgerrestaurent
 
 
 The app also has a funny "Whine" feature, where random sound effects are played to grieve a devoured burger. This feature uses jQuery click listeners.
